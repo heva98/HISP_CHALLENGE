@@ -15,7 +15,7 @@ The goal of the task is to create a functional To-do application that allows use
 
 There exists two solutions that I have Implemented.
 
-1. A mobile Application that i have used dart programming language with flutter framework (mobile_app)
+1. A mobile Application that i have used dart programming language with flutter framework (hisp_mobile)
 
-2. A web application that i have used php programming language sung laravel (web_app)
+2. A web application that i have used php programming language (hisp_web)
 
