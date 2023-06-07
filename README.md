@@ -12,3 +12,10 @@ The goal of the task is to create a functional To-do application that allows use
 ●	Change the status of a To-do item.
 
 ●	Delete a To-do item.
+
+There exists two solutions that I have Implemented.
+
+1. A mobile Application that i have used dart programming language with flutter framework (mobile_app)
+
+2. A web application that i have used php programming language sung laravel (web_app)
+
